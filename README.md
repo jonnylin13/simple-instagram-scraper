@@ -1,6 +1,6 @@
-# Instascrap Server
+# Simple IG Scraper
 
-Backend for the Instascrap service.
+- Use `api.py`, can only scrape public accounts obviously
 
 ## Installation
 
